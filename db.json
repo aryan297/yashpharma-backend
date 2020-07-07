@@ -1,0 +1,159 @@
+{
+  "user": [
+    {
+      "username": "raj",
+      "password": "123"
+    }
+  ],
+  "medicine": [
+    {
+      "company": "ddd",
+      "Mname": "jjj",
+      "Bno": 45,
+      "quantity": 61,
+      "costPrice": 45,
+      "sellingPrice": 56,
+      "Mdate": "2020-06-19T18:30:00.000Z",
+      "Edate": "2020-06-25T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "company": "dd",
+      "Mname": "gg",
+      "Bno": 444,
+      "quantity": 0,
+      "costPrice": 44,
+      "sellingPrice": 45,
+      "Mdate": "2020-01-27T18:30:00.000Z",
+      "Edate": "2020-06-26T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "company": "cipla",
+      "Mname": "TheBsic",
+      "Bno": 433,
+      "quantity": 426,
+      "costPrice": 23,
+      "sellingPrice": 87,
+      "Mdate": "2020-06-26T18:30:00.000Z",
+      "Edate": "2020-06-29T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "company": "jsjjs",
+      "Mname": "sss",
+      "Bno": 344,
+      "quantity": 213,
+      "costPrice": 111,
+      "sellingPrice": 223,
+      "Mdate": "2020-07-24T18:30:00.000Z",
+      "Edate": "2020-08-27T18:30:00.000Z",
+      "id": 6
+    }
+  ],
+  "Sell": [
+    {
+      "customerName": "ram",
+      "Address": "Azad Nagr , Madhepura",
+      "DL": "73737373773",
+      "GST": "gsgsggs7736377",
+      "Mobile": 876543219,
+      "total": 1233,
+      "date": "2020-07-01T15:57:25.704Z",
+      "filters": [
+        {
+          "filterType": "dd",
+          "quantity": 4,
+          "price": 23
+        },
+        {
+          "filterType": "jjj",
+          "quantity": 4,
+          "price": 433
+        },
+        {
+          "filterType": "gg",
+          "quantity": 1,
+          "price": 555
+        },
+        {
+          "filterType": "TheBsic",
+          "quantity": 3,
+          "price": 222
+        }
+      ],
+      "id": 3
+    },
+    {
+      "customerName": "hhh",
+      "Address": "shwhwywywyywyw",
+      "DL": "222",
+      "GST": "12222",
+      "Mobile": 987654321,
+      "total": 333,
+      "date": "2020-07-01T16:35:13.459Z",
+      "filters": [
+        {
+          "filterType": "gg",
+          "quantity": 1,
+          "price": 333
+        }
+      ],
+      "id": 4
+    },
+    {
+      "customerName": "dd",
+      "Address": "111",
+      "DL": "554",
+      "GST": "2222",
+      "Mobile": 4321,
+      "total": 9898,
+      "date": "2020-07-03T04:55:08.882Z",
+      "filters": [
+        {
+          "filterType": "jjj",
+          "quantity": 4,
+          "price": 6677
+        },
+        {
+          "filterType": "TheBsic",
+          "quantity": 3,
+          "price": 3221
+        }
+      ],
+      "id": 5
+    },
+    {
+      "customerName": "gg",
+      "Address": "jjjj",
+      "DL": "uuu",
+      "GST": "hh",
+      "Mobile": 876543213,
+      "total": 956,
+      "date": "2020-07-06T14:28:48.260Z",
+      "filters": [
+        {
+          "filterType": "jjj",
+          "quantity": 9,
+          "price": 876
+        },
+        {
+          "filterType": "sss",
+          "quantity": 2,
+          "price": 80
+        }
+      ],
+      "id": 6
+    }
+  ],
+  "Customer": [
+    {
+      "Name": "Raj",
+      "DL": "636737373773",
+      "GST": "t2t2662626626",
+      "Address": "jjjjejejejejejejjej",
+      "Mobile": 876543219,
+      "id": 2
+    }
+  ]
+}
